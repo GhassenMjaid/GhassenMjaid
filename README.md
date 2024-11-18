@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GhassenMjaid
+- 👀 I’m interested in BA
+- 🌱 I’m currently studying data science
